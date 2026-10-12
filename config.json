@@ -1,0 +1,10 @@
+{
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSc276sBF-29io_uk6LabNH_arroGdMDivEQ5VuJcb3DCJ52Yg/viewform?usp=dialog",
+  "exit_password": "teacher123",
+  "max_strikes": 3,
+  "duration_minutes": 0,
+  "strike_on_blocked_navigation": true,
+  "auto_submit_on_lock": true,
+  "clear_clipboard": true,
+  "block_screenshots": true
+}
